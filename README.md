@@ -1,1 +1,5 @@
 # Case_Study
+# Information
+![](https://www.google.com/search?tbs=simg:CAQSngIJuBZpZK0Fue8akgILELCMpwgaYgpgCAMSKI0XkBeFDIwXlwuWF4UbiReNDI8LqjerN7UtpzesN8ki0CzkKLEquScaMJgTBLzS-MCxTCXqOtA10A0fszVChl2OXkqskaflhWUDX-Y6QIqaMuPC7zB5Acty0CAEDAsQjq7-CBoKCggIARIESxY6XgwLEJ3twQkaigEKGAoGbnVtYmVy2qWI9gMKCggvbS8wNWZ3YgodCgpzbWFydHBob25l2qWI9gMLCgkvbS8wMTY5emgKHQoLZWxlY3Ryb25pY3PapYj2AwoKCC9tLzAybXJwChYKBGNpdHnapYj2AwoKCC9tLzAxbjMyChgKBXRvd2Vy2qWI9gMLCgkvbS8wMWZkemoM&sxsrf=ALeKk035G5U5D4XfSeYDZJte-Y4lYaFd6A:1600530568605&q=fintech&tbm=isch&sa=X&ved=2ahUKEwiSnvn_yPXrAhWplHIEHb67CCgQwg4oAHoECBEQKQ&biw=710&bih=789&dpr=2#imgrc=GMYxz9dRBvT5rM)
+## its about fintech
+### Table of Contents

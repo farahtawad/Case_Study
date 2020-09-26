@@ -24,14 +24,7 @@ To say the least, the financial industry has seen a huge disruption throughout t
 
 ## Results
 
-
-
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+As mentioned before, IBM is one of the top IT firms in the world. Specifically, IBM ranks #14 in Forbes 100 best digital companies in the world behind firms like Microsoft, Apple and Intel. Many of these successful digital firms measure their success through the success of their innovations. A technology company is considered as successful as their developed product or service. In like manner, IBM thrives on developing the most effecient and advanced technologies that would save their clients time and resources. However, if success was to be measured in quantifiable data then the succces of these firms would depend on how much revenue they generate. For IBM, the revenue it generated in 2019 was ~$78bn which did not land it on the fortune 500 list of 2020<sup>10</sup>. 
 
 
 ## Recommendations
@@ -55,3 +48,4 @@ Last but not least, the field of technology in general has a massive and diverse
 7) [The Financial Times: Software Revolution](https://www.ft.com/content/f4e40f9c-580c-11dd-b02f-000077b07658)
 8)  [Creating Business Impact with Market Insights at IBM](https://www.m-brain.com/insights/industries/technology-media-telecommunications/creating-business-impact-with-market-insights-at-ibm)
 9)  [Top IT Companies in The World](https://alertify.eu/top-10-information-technology-it-companies-in-world-2019/)
+10) [Top 100 Digital Companies](https://www.forbes.com/top-digital-companies/list/#tab:rank)

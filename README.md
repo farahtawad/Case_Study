@@ -24,6 +24,9 @@ To say the least, the financial industry has seen a huge disruption throughout t
 
 ## Results
 
+
+
+
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
@@ -33,13 +36,13 @@ To say the least, the financial industry has seen a huge disruption throughout t
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Although IBM has been providing outstanding services to its clients, there will always be a room for improvement. In fact, many companies today are advancing their technical capabilities and locally developing many of the technologies that IBM offers. One suggestion that could gain IBM competitve advantage is acquiring social media networking services. Microsoft Corporation, one of IBM's fiercest competitors, acquired LinkedIn in 2016<sup>9</sup>, which resulted in diversifying its reach and client portfolio. With IBM's industry knowledge, acquiring a social network can provide it with a huge competitve advantage.  
 
-* Why do you think that offering this product or service would benefit the company?
+Similar to Microsoft's expansion into social networking, this would allow the opportunity for IBM to merge some of its software products and introduce more advanced functions to the social network consumers. Not only that, but attracting a larger client pool results in more revenue. 
 
-* What technologies would this additional product or service utilize?
+Ultimately, social media platforms are built on LAMP (software bundle) stacks, and improved using APIs (Application Networking Interfaces). Recently with the emerging of advanced machine learning and artificial intellegince, established social networking services such as Facebook are able to add more features to their platforms. Since IBM is an expert in machine learning and API it would be a great technology to use for this recommendation. 
 
-* Why are these technologies appropriate for your solution?
+Last but not least, the field of technology in general has a massive and diverse reach. As technology is never static and always evolving, IBM's innovations will continue to evolve as well. RegTech is only one example of a rising innovation that is expected to dominate the market in the years to come.  
 
 ## References 
 ---
@@ -50,3 +53,5 @@ To say the least, the financial industry has seen a huge disruption throughout t
 5) [RegTech in the Cognitive Era](https://www.ibm.com/thought-leadership/institute-business-value/report/regulatory-technology)
 6) [The Financial Services Industry in the United States](https://www.selectusa.gov/financial-services-industry-united-states#:~:text=Overview,of%20U.S.%20gross%20domestic%20product.)
 7) [The Financial Times: Software Revolution](https://www.ft.com/content/f4e40f9c-580c-11dd-b02f-000077b07658)
+8)  [Creating Business Impact with Market Insights at IBM](https://www.m-brain.com/insights/industries/technology-media-telecommunications/creating-business-impact-with-market-insights-at-ibm)
+9)  [Top IT Companies in The World](https://alertify.eu/top-10-information-technology-it-companies-in-world-2019/)
